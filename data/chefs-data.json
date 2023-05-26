@@ -1,0 +1,302 @@
+[
+    {
+      "_id": 1,
+      "chef_name": "Mamun Or Rashid",
+      "chef_bio": "Mamun Or Rashid is a renowned Bangladeshi chef with over 15 years of experience in cooking traditional dishes. He is passionate about using fresh, local ingredients to create authentic flavors that represent the rich culinary heritage of Bangladesh.",
+      "experience": "10 years",
+      "chef_image": null,
+      "likes":14,
+      "number_of_recipes": 50,
+      "recipes": [
+        {
+          "recipe_id": "abc123",
+          "recipe_name": "Shrimp Curry",
+          "ingredients": [
+            "shrimp",
+            "onion",
+            "garlic",
+            "ginger",
+            "tomatoes",
+            "spices"
+          ],
+          "instructions": "1. Heat oil in a pan. 2. Add onion, garlic and ginger and saute until fragrant. 3. Add shrimp and cook until pink. 4. Add tomatoes and spices and cook for another 10 minutes. 5. Serve hot with rice."
+        },
+        {
+          "recipe_id": "def456",
+          "recipe_name": "Beef Bhuna",
+          "ingredients": [
+            "beef",
+            "onion",
+            "garlic",
+            "ginger",
+            "tomatoes",
+            "spices"
+          ],
+          "instructions": "1. Heat oil in a pan. 2. Add onion, garlic and ginger and saute until fragrant. 3. Add beef and cook until browned. 4. Add tomatoes and spices and cook for another 20 minutes. 5. Serve hot with naan bread."
+        },
+        {
+          "recipe_id": "ghi789",
+          "recipe_name": "Mixed Vegetable Bhaji",
+          "ingredients": [
+            "mixed vegetables",
+            "onion",
+            "garlic",
+            "ginger",
+            "spices",
+            "oil"
+          ],
+          "instructions": "1. Heat oil in a pan. 2. Add onion, garlic and ginger and saute until fragrant. 3. Add mixed vegetables and spices and cook until tender. 4. Serve hot with rice or naan bread."
+        }
+      ]
+    },
+    {
+      "_id": 2,
+      "chef_name": "Tajuddin Ahmed",
+      "chef_bio": "Tajuddin Ahmed is a master chef from Bangladesh who specializes in creating fusion dishes that combine traditional Bangladeshi flavors with modern cooking techniques. He has won numerous awards for his innovative cuisine and is known for his use of fresh, seasonal ingredients.",
+      "chef_image": "https://media.licdn.com/dms/image/C5603AQEuj4LId_In0Q/profile-displayphoto-shrink_800_800/0/1519107410909?e=1688601600&v=beta&t=SLWqcVxpNc0bvcoorjF8gM-vGlnCD5vc-CinmLjnmnc",
+      "experience": "15 years",
+      "likes":8,
+      "number_of_recipes": 70,
+      "recipes": [
+        {
+          "recipe_id": "jkl012",
+          "recipe_name": "Bangladeshi Tacos",
+          "ingredients": [
+            "ground beef",
+            "onion",
+            "garlic",
+            "ginger",
+            "spices",
+            "tortillas"
+          ],
+          "instructions": "1. Brown the ground beef in a pan. 2. Add onion, garlic, ginger and spices and cook until fragrant. 3. Warm up the tortillas in the oven or microwave. 4. Serve the beef mixture in the tortillas and top with your favorite toppings, such as cilantro, lime and diced tomatoes."
+        },
+        {
+          "recipe_id": "mno345",
+          "recipe_name": "Spicy Chicken Biryani",
+          "ingredients": [
+            "chicken",
+            "rice",
+            "onion",
+            "garlic",
+            "ginger",
+            "spices"
+          ],
+          "instructions": "1. Cook the rice according to package instructions. 2. In a separate pan, saute onion, garlic and ginger until fragrant. 3. Add chicken and cook until browned. 4. Add spices and cook for another 5 minutes. 5. Layer the cooked rice and chicken mixture in a large pot or baking dish. 6. Bake in the oven for 20-25 minutes until heated through. 7. Serve hot with raita or yogurt sauce."
+        },
+        {
+          "recipe_id": "pqr678",
+          "recipe_name": "Masala Grilled Fish",
+          "ingredients": [
+            "fish fillets",
+            "lemon juice",
+            "garlic",
+            "ginger",
+            "spices",
+            "oil"
+          ],
+          "instructions": "1. Marinate the fish fillets in a mixture of lemon juice, garlic, ginger and spices for 30 minutes. 2. Heat a grill or grill pan over medium-high heat. 3. Brush the fish fillets with oil and grill for 4-5 minutes on each side, until cooked through. 4. Serve hot with a side of roasted vegetables or a salad."
+        }
+      ]
+    },
+    {
+      "_id": 3,
+      "chef_name": "Saida Muna Tasneem",
+      "chef_bio": "Saida Muna Tasneem is a Bangladeshi chef and culinary instructor who is passionate about sharing traditional Bengali recipes with the world. She is known for her use of fresh, locally-sourced ingredients and her innovative takes on classic dishes.",
+      "chef_image": null,
+      "experience": "12 years",
+      "likes":10,
+      "number_of_recipes": 60,
+      "recipes": [
+        {
+          "recipe_id": "stu901",
+          "recipe_name": "Shrimp Curry",
+          "ingredients": [
+            "shrimp",
+            "coconut milk",
+            "onion",
+            "garlic",
+            "ginger",
+            "spices"
+          ],
+          "instructions": "1. In a large pot, saute onion, garlic and ginger until fragrant. 2. Add shrimp and cook until pink. 3. Add coconut milk and spices and bring to a simmer. 4. Cook for another 5-10 minutes until the sauce has thickened. 5. Serve hot with rice or naan."
+        },
+        {
+          "recipe_id": "vwx234",
+          "recipe_name": "Bengali Fish Fry",
+          "ingredients": [
+            "fish fillets",
+            "turmeric",
+            "ginger",
+            "garlic",
+            "chili powder",
+            "bread crumbs"
+          ],
+          "instructions": "1. Marinate fish fillets in a mixture of turmeric, ginger, garlic and chili powder for 30 minutes. 2. Coat the fish fillets in bread crumbs. 3. Heat a pan with oil over medium-high heat. 4. Fry the fish fillets until golden brown and crispy. 5. Serve hot with a side of chutney or dipping sauce."
+        },
+        {
+          "recipe_id": "yza567",
+          "recipe_name": "Vegetable Jalfrezi",
+          "ingredients": [
+            "mixed vegetables",
+            "onion",
+            "garlic",
+            "ginger",
+            "spices",
+            "tomato paste"
+          ],
+          "instructions": "1. In a large pan, saute onion, garlic and ginger until fragrant. 2. Add mixed vegetables and cook until tender. 3. Add spices and tomato paste and cook for another 5-10 minutes. 4. Serve hot with rice or naan."
+        }
+      ]
+    },
+    {
+      "_id": 4,
+      "chef_name": "Siddika Kabir",
+      "chef_bio": "Siddika Kabir was a famous Bangladeshi chef, nutritionist, and cookbook author. She wrote several books on Bangladeshi cuisine and hosted a popular cooking show called 'Ranna Khaddo Pushti' which aired for over 30 years.",
+      "chef_image": "https://tds-images.thedailystar.net/sites/default/files/feature/images/siddika_kabir.jpg",
+      "experience": "20 years",
+      "likes":50,
+      "number_of_recipes": 100,
+      "recipes": [
+        {
+          "recipe_id": "def012",
+          "recipe_name": "Chicken Korma",
+          "ingredients": [
+            "chicken",
+            "yogurt",
+            "onion",
+            "ginger",
+            "garlic",
+            "spices"
+          ],
+          "instructions": "1. In a large pot, saute onion, garlic, and ginger until fragrant. 2. Add chicken and cook until browned on all sides. 3. Add yogurt and spices and bring to a simmer. 4. Cook for another 20-30 minutes until the chicken is cooked through and the sauce has thickened. 5. Serve hot with rice or naan."
+        },
+        {
+          "recipe_id": "efg123",
+          "recipe_name": "Beef Bhuna",
+          "ingredients": [
+            "beef",
+            "onion",
+            "garlic",
+            "ginger",
+            "spices",
+            "tomato"
+          ],
+          "instructions": "1. In a large pan, saute onion, garlic, and ginger until fragrant. 2. Add beef and cook until browned on all sides. 3. Add spices and chopped tomato and cook for another 20-30 minutes until the beef is tender and the sauce has thickened. 4. Serve hot with rice or naan."
+        },
+        {
+          "recipe_id": "ghi456",
+          "recipe_name": "Vegetable Pulao",
+          "ingredients": [
+            "rice",
+            "mixed vegetables",
+            "onion",
+            "ginger",
+            "garlic",
+            "spices"
+          ],
+          "instructions": "1. Rinse rice in cold water and soak for 30 minutes. 2. In a large pot, saute onion, garlic, and ginger until fragrant. 3. Add mixed vegetables and cook until tender. 4. Drain the rice and add it to the pot with the vegetables. 5. Add water, spices and bring to a boil. 6. Cover and simmer for 15-20 minutes until the rice is cooked through. 7. Serve hot as a main dish or side."
+        }
+      ]
+    },
+    {
+      "_id": 5,
+      "chef_name": "Rownak Jahan",
+      "chef_bio": "Rownak Jahan is a Bangladeshi food blogger and chef, best known for her simple and delicious recipes that showcase the flavors of Bangladesh.",
+      "chef_image": "https://media.licdn.com/dms/image/C5103AQH9QjV71fdrPw/profile-displayphoto-shrink_800_800/0/1543991227093?e=2147483647&v=beta&t=EwqrTPbHURf3YO9aDV-uRyATyRE2G98UxJnI0jsJ0lo",
+      "experience": "8 years",
+      "likes":4,
+      "number_of_recipes": 40,
+      "recipes": [
+        {
+          "recipe_id": "5rJhn1_r1",
+          "recipe_name": "Chingri Bhorta (Shrimp Mash)",
+          "ingredients": [
+            "shrimp",
+            "onion",
+            "garlic",
+            "ginger",
+            "green chili",
+            "coriander leaves"
+          ],
+          "instructions": "1. Boil the shrimp until cooked. 2. Mash the boiled shrimp with onion, garlic, ginger, green chili, and coriander leaves. 3. Serve chilled or at room temperature."
+        },
+        {
+          "recipe_id": "5rJhn1_r2",
+          "recipe_name": "Doi Begun (Eggplant in Yogurt Sauce)",
+          "ingredients": [
+            "eggplant",
+            "yogurt",
+            "mustard oil",
+            "red chili powder",
+            "turmeric",
+            "salt"
+          ],
+          "instructions": "1. Cut the eggplant into cubes and fry in mustard oil until golden brown. 2. Mix yogurt, red chili powder, turmeric, and salt to make the sauce. 3. Add the fried eggplant to the sauce and cook for a few minutes. 4. Serve hot."
+        },
+        {
+          "recipe_id": "5rJhn1_r3",
+          "recipe_name": "Dimer Jhol (Egg Curry)",
+          "ingredients": [
+            "eggs",
+            "onion",
+            "garlic",
+            "ginger",
+            "tomato",
+            "green chili"
+          ],
+          "instructions": "1. Boil the eggs until cooked and remove the shells. 2. Fry onion, garlic, ginger, tomato, and green chili in oil until softened. 3. Add water and bring to a boil. 4. Add the boiled eggs and simmer for a few minutes. 5. Serve hot."
+        }
+      ]
+    },
+    {
+      "_id": 6,
+      "chef_name": "Mawaheb Saadique",
+      "chef_bio": "Mawaheb Saadique is a passionate Bangladeshi chef who loves to create unique and flavorful dishes using locally-sourced ingredients.",
+      "chef_image": "https://scontent.fdac19-1.fna.fbcdn.net/v/t1.6435-9/186547954_1476012036079608_2385800510926617909_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeF9BN8GgPSOSjffoVpSsMzB-TqtbdGxdmn5Oq1t0bF2afCxPIBWJOy6e5zf6Bkx4whGnk-8AZVOwW8qhaid21Rs&_nc_ohc=3gugQ1GtwY4AX_pa1ba&_nc_ht=scontent.fdac19-1.fna&oh=00_AfCmSFv0WpfY0NBNZqbFPwsSWTs59l5tECBL1F-65T-dBA&oe=6477709F",
+      "experience": "7 years",
+      "likes":22,
+      "number_of_recipes": 35,
+      "recipes": [
+        {
+          "recipe_id": "MS1001R1",
+          "name": "Spicy Chicken Curry",
+          "ingredients": [
+            "chicken",
+            "onion",
+            "tomato",
+            "garlic",
+            "ginger",
+            "green chili"
+          ],
+          "instructions": "1. Heat oil in a pan and fry onion until golden brown. 2. Add garlic, ginger, and green chili and fry for another minute. 3. Add tomato and cook until it becomes soft. 4. Add chicken and cook for 5-10 minutes. 5. Add water and simmer for 15-20 minutes. 6. Serve hot with rice or naan bread."
+        },
+        {
+          "recipe_id": "MS1001R2",
+          "name": "Potato and Egg Curry",
+          "ingredients": [
+            "potato",
+            "egg",
+            "onion",
+            "garlic",
+            "ginger",
+            "turmeric"
+          ],
+          "instructions": "1. Boil potatoes until they are cooked through. 2. Peel and cut the potatoes into small cubes. 3. Heat oil in a pan and fry onion until golden brown. 4. Add garlic, ginger, and turmeric and fry for another minute. 5. Add potatoes and eggs and cook for 5-10 minutes. 6. Serve hot with rice or naan bread."
+        },
+        {
+          "recipe_id": "MS1001R3",
+          "name": "Lemon and Coriander Soup",
+          "ingredients": [
+            "chicken broth",
+            "lemon juice",
+            "coriander",
+            "onion",
+            "garlic",
+            "ginger"
+          ],
+          "instructions": "1. Heat chicken broth in a pot. 2. Add onion, garlic, and ginger and simmer for 5-10 minutes. 3. Add lemon juice and coriander and cook for another 5-10 minutes. 4. Serve hot with bread or crackers."
+        }
+      ]
+    }
+  ]
